@@ -91,7 +91,7 @@ class _ColorChangerPageState extends State<ColorChangerPage> {
 
 //The function that generates random RGB colors
   _randomizeColor() {
-    Random random = new Random();
+    Random random = Random();
     red = random.nextInt(255);
     green = random.nextInt(255);
     blue = random.nextInt(255);
