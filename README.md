@@ -1,16 +1,29 @@
-# solid_software_test_task
-
-A new Flutter project.
+# Color Changer Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Color Changer application display the text "Hey there" in the middle of the screen and after tapping anywhere on the screen a background color will be changed to a randomly generated color.
 
-A few resources to get you started if this is your first Flutter project:
+![Gif1](https://user-images.githubusercontent.com/86306159/128067223-eb7a7a92-94ff-4ead-98a3-d866f3cb0600.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can also manually change the color using the sliders.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gif2](https://user-images.githubusercontent.com/86306159/128068098-b5e2f3ad-d48f-4e59-857c-143cbd78fbef.gif)
+
+## How to Use 
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/esconts/color_changer_test_task.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
